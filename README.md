@@ -30,8 +30,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/product-preview-card-built-with-css-flexbox-and-bootstrap-styles-XZTv9EmoIs)
+- Live Site URL: [Add live site URL here](https://630556f925de2f0071fa3738--product-preview-card-component-alel.netlify.app/)
 
 ## My process
 
@@ -48,9 +48,9 @@ I learned how to create a media query, in this case for the mobile design.
 
 ### Useful resources
 
-- [resource 1](https://developer.mozilla.org/es/docs/Web/CSS/Media_Queries/Using_media_queries) - This helped me for the media queries
+- [CSS media queries](https://developer.mozilla.org/es/docs/Web/CSS/Media_Queries/Using_media_queries) - This helped me for the media queries.
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/Alelsito)
+- Frontend Mentor - [@Alelsito](https://www.frontendmentor.io/profile/Alelsito)
 - Github - [@Alelsito](https://github.com/Alelsito)
